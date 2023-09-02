@@ -1,0 +1,36 @@
+/*
+ *{
+    margin: 0;
+    padding: 0;
+}
+*/
+
+body{
+    background-color: antiquewhite;
+}
+
+/* Titulos */
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    color: #21c6b87c;
+}
+
+#etqAmarillo{
+    color: yellow;
+}
+
+#parrafito{
+    font-size: 20px;
+}
+
+.txtBlue{
+    color: blue;
+}
